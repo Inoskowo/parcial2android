@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">unu</string>
+    <string name="constate1">Holaa</string>
+    <string name="ConstanteSuma">Suma</string>
+    <string name="ConstanteValor">Valor1</string>
+    <string name="ConstanteValor2">Valor2</string>
+    <string name="constatePotencia">Potencia</string>
+    <string name="ConstateFibonnaci">Fibbonaci</string>
+    <string name="constateMultiplicar">Multiplicar</string>
+    <string name="constateOperar">Operar</string>
+    <string name="Constanteinicio">Iniciar sesion</string>
+    <string name="title_activity_mapa">ActivityMapa</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
